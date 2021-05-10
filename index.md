@@ -7,15 +7,17 @@ TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 
 ## **EDUCATION**
 
-**AI Turing Class, EECS College, Peking University          *Beijing, China*
+### **AI Turing Class, EECS College, Peking University                                  
+*Beijing, China***
 
-*Bachelor of Engneering in Artificial Intelligence* 
-                 *Sept. 2018 – Present***
+***Bachelor of Engneering in Artificial Intelligence*                               
+*Sept. 2018 – Present***
 
-- **Overall GPA**: 3.67/4.00 **Major GPA**: 3.72/4.00
+- **Overall GPA**: 3.67/4.00                **Major GPA**: 3.72/4.00
 
-- **Honor**: Newbee Scholarship of Peking University *Dec. 2018*\
-School-level Scholarship of Peking University *Oct. 2019*
+- **Honor**: 
+    - Newbee Scholarship of Peking University *Dec. 2018*\
+    - School-level Scholarship of Peking University *Oct. 2019*
 
 - **Major courses**
 
@@ -31,8 +33,8 @@ School-level Scholarship of Peking University *Oct. 2019*
 
 ## **RESEARCH EXPERIENCE**
 
-### **Development of Commonsense-based Question
-Generation Models** *May. 2020-Nov. 2020, Beijing*
+### **Development of Commonsense-based Question Generation Models**                 
+*May. 2020-Nov. 2020, Beijing*
 
 *Research Assistant | Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
 
@@ -42,8 +44,8 @@ Generation Models** *May. 2020-Nov. 2020, Beijing*
 
 -   Participated in another project of Commonsense-based Multitask Learning QG project, provided assistance about baseline implementation and data completion in ablation experiment, which was accepted by *ACL2020*
 
-### **Study of Mainstream Methods for Continual Learning** *Mar. 2020-May.
-2020, Beijing*
+### **Study of Mainstream Methods for Continual Learning**                          
+*Mar. 2020-May. 2020, Beijing*
 
 *Member | Supervisor: Prof. Zhihong Deng, Department of Machine Intelligence of PKU*
 
@@ -51,7 +53,7 @@ Generation Models** *May. 2020-Nov. 2020, Beijing*
 
 -   Finished a detailed paper review covering the origin and development of three classes methods of Lifelong Learning: regularization-based, dynamic-structure-based and replay-based neural network training
 
-### **Modification of Semi and Self-supervised Text Classification Methods**
+### **Modification of Semi and Self-supervised Text Classification Methods**        
 *Jan. 2020-Mar. 2020, Beijing*
 
 *Member | Supervisor: Assistant Prof. Rui Yan,* *Wangxuan Institute of Computer Technology of PKU*
@@ -64,8 +66,8 @@ Generation Models** *May. 2020-Nov. 2020, Beijing*
 
 ## **PROJECT DEVELOPMENT**
 
-### ***Commonsense Question Generation Model using Knowledge Graph*** *July.
-2020-Oct. 2020, Beijing*
+### ***Commonsense Question Generation Model using Knowledge Graph***               
+*July. 2020-Oct. 2020, Beijing*
 
 *Leader | Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
 
@@ -77,8 +79,8 @@ Generation Models** *May. 2020-Nov. 2020, Beijing*
 
 -   For the next step, to implement some other attention structures to extract further commonsense information and will pay more attention to pre-train models
 
-### **Fracture Detection Model using Faster-RCNN** *Apr. 2020-June. 2020,
-Beijing*
+### **Fracture Detection Model using Faster-RCNN** 
+*Apr. 2020-June. 2020, Beijing*
 
 *Member | Supervisor: Prof. Liwei Wang, Center for Data Science of PKU*
 
