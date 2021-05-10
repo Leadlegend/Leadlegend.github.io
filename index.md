@@ -1,23 +1,23 @@
-# Kaixin Zhang
+# <p align="center">Kaixin Zhang</p>
 
-**Addr**: Peking University, No. 5 Yiheyuan Street, Haidian District,
-Beijing, China, 100080
+<p align="center">**Addr**: Peking University, No. 5 Yiheyuan Street, Haidian District,
+Beijing, China, 100080</p>
 
-TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
+<p align="center">TEL: +(86) 19801203004 || Email: PKUKaixinZhang@gmail.com</p>
 
 ## **EDUCATION**
 
-### **AI Turing Class, EECS College, Peking University                                  
-*Beijing, China***
+### **AI Turing Class, EECS College, Peking University**                             
+<p align="right">*Beijing, China*</p>
 
-***Bachelor of Engneering in Artificial Intelligence*                               
-*Sept. 2018 – Present***
+***Bachelor of Engneering in Artificial Intelligence***                         
+<p align="right">*Sept. 2018 – Present*</p>
 
-- **Overall GPA**: 3.67/4.00                **Major GPA**: 3.72/4.00
+- **Overall GPA**: 3.67/4.00                <p align="right">**Major GPA**: 3.72/4.00</p>
 
 - **Honor**: 
-    - Newbee Scholarship of Peking University *Dec. 2018*\
-    - School-level Scholarship of Peking University *Oct. 2019*
+    - Newbee Scholarship of Peking University <p align="right">*Dec. 2018*</p>
+    - School-level Scholarship of Peking University <p align="right">*Oct. 2019*</p>
 
 - **Major courses**
 
@@ -34,9 +34,9 @@ TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 ## **RESEARCH EXPERIENCE**
 
 ### **Development of Commonsense-based Question Generation Models**                 
-*May. 2020-Nov. 2020, Beijing*
+<p align="right">*May. 2020-Nov. 2020, Beijing*</p>
 
-*Research Assistant | Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
+*Research Assistant* || *Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
 
 -   Designed a Seq-to-seq Question Generation model and developed static graph attention mechansim that extracts extern knowledge from Knowledge Graph to assist feature capture of the encoder
 
@@ -45,18 +45,18 @@ TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 -   Participated in another project of Commonsense-based Multitask Learning QG project, provided assistance about baseline implementation and data completion in ablation experiment, which was accepted by *ACL2020*
 
 ### **Study of Mainstream Methods for Continual Learning**                          
-*Mar. 2020-May. 2020, Beijing*
+<p align="right">*Mar. 2020-May. 2020, Beijing*</p>
 
-*Member | Supervisor: Prof. Zhihong Deng, Department of Machine Intelligence of PKU*
+*Member* || *Supervisor: Prof. Zhihong Deng, Department of Machine Intelligence of PKU*
 
 -   Participated in seminars with the research group, and delivered speech about future of replay-based Contiual Learning, especially about knowledge storage and transference
 
 -   Finished a detailed paper review covering the origin and development of three classes methods of Lifelong Learning: regularization-based, dynamic-structure-based and replay-based neural network training
 
 ### **Modification of Semi and Self-supervised Text Classification Methods**        
-*Jan. 2020-Mar. 2020, Beijing*
+<p align="right">*Jan. 2020-Mar. 2020, Beijing*</p>
 
-*Member | Supervisor: Assistant Prof. Rui Yan,* *Wangxuan Institute of Computer Technology of PKU*
+*Member* || *Supervisor: Assistant Prof. Rui Yan,* *Wangxuan Institute of Computer Technology of PKU*
 
 -   Investigated all the published semi-supervised and unsupervised Text Classification models from 2018 to 2020, and discussed the working mechanism of some self-supervised networks and possibility of optimization
 
@@ -67,9 +67,9 @@ TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 ## **PROJECT DEVELOPMENT**
 
 ### ***Commonsense Question Generation Model using Knowledge Graph***               
-*July. 2020-Oct. 2020, Beijing*
+<p align="right">*July. 2020-Oct. 2020, Beijing*</p>
 
-*Leader | Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
+*Leader* || *Supervisor: Prof. Yunfang Wu, Institute of Computational Linguistics of PKU*
 
 -   Reached 17.63 for BLEU-4, on standard SQuAD test set, which is distinguished among the non-pretrained methods
 
@@ -80,9 +80,9 @@ TEL: +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 -   For the next step, to implement some other attention structures to extract further commonsense information and will pay more attention to pre-train models
 
 ### **Fracture Detection Model using Faster-RCNN** 
-*Apr. 2020-June. 2020, Beijing*
+<p align="right">*Apr. 2020-June. 2020, Beijing*</p>
 
-*Member | Supervisor: Prof. Liwei Wang, Center for Data Science of PKU*
+*Member* || *Supervisor: Prof. Liwei Wang, Center for Data Science of PKU*
 
 -   Used Generalizaed-RCNN of Detectron2 to implemented Faster-RCNN for its scalability, training Backbone Network for feature extraction, Region Proposal Network for anchor detection and ROI pooling layer for length normalization
 
