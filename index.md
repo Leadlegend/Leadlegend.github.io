@@ -4,7 +4,9 @@
 Beijing, China, 100080</p>
 
 <p align="center">TEL: +(86) 19801203004 || Email: PKUKaixinZhang@gmail.com</p>
-<br></br>
+
+
+
 
 ## EDUCATION
 ____
@@ -15,8 +17,7 @@ ____
 *<p align="right">Sept. 2018 – Present*</p>
 
 - **Overall GPA**: 3.67/4.00
-
-    **Major GPA**: 3.72/4.00
+**Major GPA**: 3.72/4.00
 
 - **Honor**: 
     - Newbee Scholarship of Peking University <p align="right">*Dec. 2018*</p>
@@ -33,7 +34,9 @@ ____
         - Natural language and Data science 100/100,
         - The Brain and Cognitive Science 91/100,
         - Study and Practice on Topics of Frontier Computing 90/100
-<br></br>
+
+
+
 ## **RESEARCH EXPERIENCE**
 _____
 ### **Development of Commonsense-based Question Generation Models**                 
@@ -69,7 +72,9 @@ _____
 -   Verified the validation of one of the noisy-label adversarial TC models through model reproduction using PyTorch
 
 -   Designed an feasible method to integrate Paragraph-level Features to improve TC.
-<br></br>
+
+
+
 ## **PROJECT DEVELOPMENT**
 _____
 ### ***Commonsense Question Generation Model using Knowledge Graph***               
@@ -97,7 +102,9 @@ _____
 -   After investigation and comparision, we took ResNet+FPN as backbone network instead of purely ResNet, which paid comprehensive attention to features in all levels
 
 -   Adopted transfer learning on ImageNet to get better performance, specifically, fixing parameters of downside layers of the backbone, and fine-tune the parameters of remains
-<br></br>
+
+
+
 ## **SKILLS**
 ____
 Pytorch, C, C++, Python, Assembly, Tensorflow
