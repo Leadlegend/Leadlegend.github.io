@@ -1,11 +1,11 @@
-Kaixin Zhang
+# Kaixin Zhang
 
 Addr: Peking University, No. 5 Yiheyuan Street, Haidian District,
 Beijing, China, 100080
 
 +(86) 19801203004 | Email: PKUKaixinZhang@gmail.com
 
-**EDUCATION **
+## **EDUCATION**
 
 **AI Turing Class, EECS College, Peking University *Beijing, China*
 *Bachelor of Engneering in Artificial Intelligence* *Sept. 2018 –
@@ -28,9 +28,9 @@ Natural language and Data science 100/100,\
 The Brain and Cognitive Science 91/100,\
 Study and Practice on Topics of Frontier Computing 90/100
 
-**RESEARCH EXPERIENCE**
-
-[]{#_Hlk64475888 .anchor}**Development of Commonsense-based Question
+## **RESEARCH EXPERIENCE**
+__
+**Development of Commonsense-based Question
 Generation Models** *May. 2020-Nov. 2020, Beijing*
 
 *Research Assistant | Supervisor: Prof. Yunfang Wu, Institute of
@@ -79,8 +79,8 @@ Computer Technology of PKU*
 -   Designed an feasible method to integrate Paragraph-level Features to
     improve TC.
 
-**PROJECT DEVELOPMENT**
-
+## **PROJECT DEVELOPMENT**
+__
 ***Commonsense Question Generation Model using Knowledge Graph*** *July.
 2020-Oct. 2020, Beijing*
 
@@ -120,10 +120,7 @@ Beijing*
     specifically, fixing parameters of downside layers of the backbone,
     and fine-tune the parameters of remains
 
-**SKILLS**
-
+## **SKILLS**
+__
 Pytorch, C, C++, Python, Assembly, Tensorflow
 
-[]{#_Hlk64469417 .anchor}
-
-[[]{#_Hlk64476576 .anchor}]{#_Hlk64476558 .anchor}
