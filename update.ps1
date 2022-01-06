@@ -9,7 +9,7 @@ cd ../
 Write-Host "git commit local..." -ForegroundColor green
 git add docs
 # Commit changes.
-$msg="rebuilding site $(date)"
+$msg = "update theme git source, rebuild site $(date) and add hyperlinks"
 git commit -m "$msg"
 # Push source and build repos.
 Write-Host "git push remote..." -ForegroundColor green
